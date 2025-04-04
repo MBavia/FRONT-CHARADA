@@ -54,5 +54,8 @@ O Charada do Dia é uma aplicação web interativa que apresenta aos usuários c
 ## Autores
 - Manoela Bavia - [GitHub](https://github.com/MBavia) - manoela.bavia.senai@gmail.com
 
+## Vercel
+- Manoela Bavia - [Vercel](https://front-charada.vercel.app/) - manoela.bavia.senai@gmail.com
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
